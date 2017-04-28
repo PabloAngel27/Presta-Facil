@@ -1,0 +1,14 @@
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\bin\Debug\Presta Facil.exe
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\bin\Debug\Presta Facil.pdb
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\bin\Debug\Presta Facil.xml
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta_Facil.Login.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta_Facil.NuevoUsuario.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta_Facil.PantallaPrincipal.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta_Facil.PagarPrestamo.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta_Facil.Prestamos.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta_Facil.NuevoPrestamo.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta_Facil.Resources.resources
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta Facil.vbproj.GenerateResource.Cache
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta Facil.exe
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta Facil.xml
+C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta Facil.pdb
