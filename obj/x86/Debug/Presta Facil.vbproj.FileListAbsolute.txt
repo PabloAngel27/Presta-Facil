@@ -12,3 +12,6 @@ C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta F
 C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta Facil.exe
 C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta Facil.xml
 C:\Users\Acer\Documents\Visual Studio 2010\Projects\Examen\Presta Facil\Presta Facil\obj\x86\Debug\Presta Facil.pdb
+C:\Users\CONSVA-12\Documents\GitHub\Presta-Facil\obj\x86\Debug\Presta Facil.exe
+C:\Users\CONSVA-12\Documents\GitHub\Presta-Facil\obj\x86\Debug\Presta Facil.xml
+C:\Users\CONSVA-12\Documents\GitHub\Presta-Facil\obj\x86\Debug\Presta Facil.pdb
