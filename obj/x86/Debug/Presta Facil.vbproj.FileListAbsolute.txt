@@ -40,3 +40,6 @@ C:\Users\CONSVA-12\Documents\GitHub\Presta-Facil\obj\x86\Debug\Presta_Facil.Pres
 C:\Users\CONSVA-12\Documents\GitHub\Presta-Facil\obj\x86\Debug\Presta_Facil.NuevoPrestamo.resources
 C:\Users\CONSVA-12\Documents\GitHub\Presta-Facil\obj\x86\Debug\Presta_Facil.Resources.resources
 C:\Users\CONSVA-12\Documents\GitHub\Presta-Facil\obj\x86\Debug\Presta Facil.vbproj.GenerateResource.Cache
+C:\Users\CONSVA-19\Documents\GitHub\Presta-Facil\obj\x86\Debug\Presta Facil.exe
+C:\Users\CONSVA-19\Documents\GitHub\Presta-Facil\obj\x86\Debug\Presta Facil.xml
+C:\Users\CONSVA-19\Documents\GitHub\Presta-Facil\obj\x86\Debug\Presta Facil.pdb
