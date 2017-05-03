@@ -121,11 +121,11 @@ Partial Class Login
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Elephant", 15.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(117, 15)
+        Me.Label1.Location = New System.Drawing.Point(136, 23)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(187, 26)
         Me.Label1.TabIndex = 10
-        Me.Label1.Text = "PRESTA FACIL"
+        Me.Label1.Text = "PRESTA FÁCIL"
         '
         'Login
         '
